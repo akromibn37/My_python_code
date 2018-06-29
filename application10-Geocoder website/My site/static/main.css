@@ -1,0 +1,27 @@
+head,body{
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	background-color: skyblue;
+}
+.container{
+	height: 100%;
+	font-family: "Times New Roman", Times, serif;
+	margin: 50px;
+}
+.container h1{
+	color: #696969;
+	text-shadow: 2px 2px 8px #FF0000;
+	font-size: 4em;
+	margin: 18px;
+}
+.container h3{
+	color: #556B2F;
+	font-style: italic;
+	margin: 5px;
+	font-size: 22px;
+}
+.container form button{
+	margin: 50px;
+
+}

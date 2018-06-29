@@ -1,0 +1,10 @@
+import pandas
+
+df=pandas.read_csv("supermarkets.csv")
+df
+def c_to_f(c):
+    f=c*5
+    return f
+
+c = input("Enter celcius:")
+print("c*5 =",c_to_f(float(c)))
